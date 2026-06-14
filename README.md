@@ -1,3 +1,5 @@
+Live Demo : https://telecom-rag-elh9qedf8cwdgdxjpcfdva.streamlit.app/
+
 # RAG Telecom Chatbot
 
 A customer care chatbot built with Retrieval-Augmented Generation (RAG) for telecom support. It answers questions about mobile connectivity, billing, SIM issues, and roaming by pulling relevant context from three knowledge sources and generating responses with GPT-4o-mini.
