@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Why is my mobile internet so slow?",
+    "expected_keywords": ["network", "data", "restart", "apn", "coverage", "4g", "5g"],
+    "category": "connectivity"
+  },
+  {
+    "question": "My calls keep dropping, what should I do?",
+    "expected_keywords": ["signal", "network", "restart", "coverage", "tower", "sim"],
+    "category": "connectivity"
+  },
+  {
+    "question": "How do I activate international roaming?",
+    "expected_keywords": ["roaming", "activate", "international", "app", "settings"],
+    "category": "roaming"
+  },
+  {
+    "question": "Why is my bill higher than usual this month?",
+    "expected_keywords": ["bill", "charge", "usage", "plan", "data"],
+    "category": "billing"
+  },
+  {
+    "question": "My phone shows SIM not detected after a restart",
+    "expected_keywords": ["sim", "reinsert", "restart", "slot", "replace"],
+    "category": "sim"
+  },
+  {
+    "question": "How do I enable Wi-Fi calling?",
+    "expected_keywords": ["wi-fi", "wifi", "calling", "settings", "enable"],
+    "category": "connectivity"
+  },
+  {
+    "question": "I was charged for roaming even though I had a bundle active",
+    "expected_keywords": ["roaming", "bundle", "charge", "refund", "credit"],
+    "category": "billing"
+  },
+  {
+    "question": "How do I unlock my phone for another network?",
+    "expected_keywords": ["unlock", "network", "eligib", "request", "imei"],
+    "category": "device"
+  },
+  {
+    "question": "I can't send text messages but calls work fine",
+    "expected_keywords": ["sms", "message", "smsc", "text", "restart", "settings", "centre", "center"],
+    "category": "connectivity"
+  },
+  {
+    "question": "How do I set up a mobile hotspot?",
+    "expected_keywords": ["hotspot", "tethering", "settings", "data"],
+    "category": "device"
+  },
+  {
+    "question": "What happens to my number if I cancel my contract?",
+    "expected_keywords": ["number", "cancel", "port", "pac", "transfer", "contract", "porting", "keep"],
+    "category": "account"
+  },
+  {
+    "question": "My voicemail is not working, how do I fix it?",
+    "expected_keywords": ["voicemail", "dial", "set up", "reset", "pin", "mailbox", "1571"],
+    "category": "connectivity"
+  }
+]

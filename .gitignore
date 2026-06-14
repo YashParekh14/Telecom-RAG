@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+
+# UV
+# uv.lock  ← keep this committed for reproducibility
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+
+# Streamlit secrets (local only — use Streamlit Cloud secrets instead)
+.streamlit/secrets.toml
+
+# Ruff
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NOTE: chroma_store/ is intentionally committed so Streamlit Cloud
+# can serve the app without running ingest scripts on first boot.
+# If you re-ingest locally, commit and push the updated chroma_store/.
